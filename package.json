@@ -1,7 +1,7 @@
 {
-  "name": "@liberusoftware/module-boilerplate-nextjs",
+  "name": "@liberusoftware/module-theme-support-nextjs",
   "version": "0.1.0-alpha.0",
-  "description": "Liberu Next.js \u00b7 React presentation module foundation",
+  "description": "Theme Support \u2014 Next.js \u00b7 React presentation skeleton",
   "type": "module",
   "license": "MIT",
   "files": [
@@ -40,6 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liberusoftware/module-boilerplate-nextjs.git"
+    "url": "https://github.com/liberusoftware/module-theme-support-nextjs.git"
   }
 }

@@ -1,0 +1,25 @@
+{
+  "repository": "module-theme-support-nextjs",
+  "capabilityKey": "liberusoftware/theme-support",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-theme-support-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/boilerplate/nextjs/theme-support.md",
+  "presentationPlan": "projects/boilerplate/nextjs/theme-support.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
